@@ -1,0 +1,9 @@
+server:
+  port: 9900
+
+spring:
+    datasource:
+        url: jdbc:postgresql://localhost:5454/saas_demo
+        username: postgres
+        password: eCommerceAdmin123
+        driver-class-name: org.postgresql.Driver
